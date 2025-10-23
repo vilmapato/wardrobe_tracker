@@ -15,7 +15,7 @@ This diagram shows the relationship between the user's wallet, the WardrobeCount
 This is a basic on-chain wardrobe tracking program built using [Anchor](https://book.anchor-lang.com/).  
 It allows users to track how many times they’ve used different categories of wardrobe items: clothing, shoes, and accessories.
 
-> I create this application for practicing purposes
+> I created this application for practicing purposes
 
 ---
 
@@ -41,7 +41,7 @@ It allows users to track how many times they’ve used different categories of w
 
 ## 🚀 Getting Started
 
-### ✅ 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/vilmapato/wardrobe_tracker.git
